@@ -28,7 +28,7 @@ button:hover {
     cursor: pointer;
 }
 
-div.timer {
+div#timer {
     font-size: 4em;
 }
 
